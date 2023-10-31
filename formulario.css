@@ -1,0 +1,40 @@
+body {
+    background-color: aquamarine;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input:focus{
+    color: white;
+    background-color: darkcyan;
+}
+
+.p1 {
+    font-weight: bolder;
+}
+
+.p2 {
+    font-weight: bolder;
+}
+
+.p3 {
+    font-weight: bolder;
+}
+
+.button {
+    background-color:aqua;
+    width: 150px;
+    height: 50px;
+}
+
+.button:hover {
+    color: white;
+    background-color: darkcyan;
+}
+
+.text {
+    width: 300px;
+}
+
+#edad {
+    width: 100px;
+}
